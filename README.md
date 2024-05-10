@@ -1,29 +1,30 @@
-______________________________________________________________________________________
-- 👋 Hi! My name is Yura, I'm 18 years old, and I'm passionate about web development.
+___________________________________________________________________________________________
+- 👋 Hi there! My name is Yura, I'm 18 years old, and I'm passionate about web development.
 - 🌱 I'm diving into React and Next.js, while also expanding my skills in technologies
 like HTML/CSS, JavaScript, TypeScript.                                                
 - I love learning new things and experimenting with different tools.                  
-______________________________________________________________________________________
+___________________________________________________________________________________________
 - 💻 When I'm not coding, I enjoy working on interesting projects and connecting with 
 other developers. 
 - If you have a cool idea or would like to collaborate, feel free to message me or 
 send an email to yuravychivskii@gmail.com.
-______________________________________________________________________________________
+___________________________________________________________________________________________
 - ✨ I also enjoy sharing knowledge and am always open to new approaches to 
 problem-solving. Oh, and I'm a big fan of memes! 😂
-______________________________________________________________________________________
+___________________________________________________________________________________________
 - 🚀 Let's create something awesome together!
-______________________________________________________________________________________
+___________________________________________________________________________________________
 Tech Stack:
 - HTML/CSS
 - SCSS/SASS
 - JavaScript
 - TypeScript
-______________________________________________________________________________________
+___________________________________________________________________________________________
 Libraries & Frameworks:
 - React
 - Next.js
 - jQuery
 - Bootstrap
 - ReactBootstrap
-______________________________________________________________________________________
+___________________________________________________________________________________________
+
