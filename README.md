@@ -18,11 +18,11 @@ Tech Stack:
 - HTML/CSS
 - SCSS/SASS
 - JavaScript
-- TypeScript
 ___________________________________________________________________________________________
 Libraries & Frameworks:
 - React
-- Next.js
+- Redux
+- Rest API
 - jQuery
 - Bootstrap
 - ReactBootstrap
