@@ -1,40 +1,46 @@
-<h1 align="center">Hi there, I'm Yurii 👋</h1>
+<h1 align="center">Hey there, I'm Yurii 👋</h1>
 
 <p align="center">
-  A 19-year-old computer science enthusiast passionate about clean code, elegant UI, and building ideas into real things.
+  I'm a 19-year-old computer science enthusiast who loves turning clean code into real-world apps with style.
   <br/>
-  I enjoy open-source, web development, and learning new technologies.
+  I focus on elegant UIs, modern technologies, and contributing to open-source.
 </p>
 
 ---
 
-### 📊 My GitHub Stats
+### 📈 My GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuriiVychivskii&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiVychivskii&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YuriiVychivskii&theme=tokyonight&hide_border=true)
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=YuriiVychivskii&show_icons=true&theme=calm&rank_icon=percentile&include_all_commits=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiVychivskii&layout=compact&theme=calm" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=YuriiVychivskii&theme=calm&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 🚀 Technologies I Use
+### 🛠️ Technologies I Work With
 
-- **Languages:** TypeScript, JavaScript, Python, PHP
-- **Frontend:** React, Next.js, TailwindCSS
-- **Backend:** Node.js, Express, PostgreSQL, Prisma
-- **Tools:** Git, VS Code, Figma, Docker
-
----
-
-### ❤️ Support & Sponsorship
-
-If you like my work, consider giving a ⭐ to my projects or [buying me a coffee](https://www.buymeacoffee.com/) (coming soon!).
+- **Languages:** TypeScript, JavaScript, Python, PHP  
+- **Frontend:** React, Next.js, TailwindCSS  
+- **Backend:** Node.js, Express, PostgreSQL, Prisma  
+- **Tools:** Git, VS Code, Docker, Figma
 
 ---
 
-<sub><i>This README is auto-generated with ❤️ and [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)</i></sub>
+### ❤️ Support
+
+If you like my work, give a ⭐ to my projects or reach out for collaboration!
+
+<sub><i>This README uses [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) — with 💚 by Yurii</i></sub>
