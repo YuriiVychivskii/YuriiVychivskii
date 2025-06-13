@@ -6,10 +6,6 @@
   Welcome to my futuristic, neon-themed GitHub space ⚡
 </p>
 
----
-
-### 📊 GitHub Stats (Dracula theme)
-
 <div align="center">
   <table>
     <tr>
@@ -43,4 +39,3 @@
 
 If you like what I do — feel free to explore my projects, give them a ⭐, or reach out!
 
-<sub><i>Made with 💜 using real themes from GitHub Readme Stats by @anuraghazra</i></sub>
