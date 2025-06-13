@@ -14,15 +14,15 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YuriiVychivskii&show_icons=true&theme=calm&rank_icon=percentile&include_all_commits=true" alt="GitHub Stats" />
+        ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuriiVychivskii&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true)
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiVychivskii&layout=compact&theme=calm" alt="Top Languages" />
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiVychivskii&layout=compact&theme=tokyonight)
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=YuriiVychivskii&theme=calm&hide_border=true" alt="GitHub Streak" />
+        ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YuriiVychivskii&theme=tokyonight&hide_border=true)
       </td>
     </tr>
   </table>
