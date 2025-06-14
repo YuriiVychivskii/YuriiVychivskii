@@ -28,9 +28,8 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** TypeScript · JavaScript · Python · PHP  
+- **Languages:** TypeScript · JavaScript   
 - **Frontend:** React · Next.js · TailwindCSS  
-- **Backend:** Node.js · Express · PostgreSQL · Prisma  
 - **Tools:** Git · Docker · Figma · VS Code
 
 ---
