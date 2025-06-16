@@ -38,3 +38,4 @@
 
 If you like what I do — feel free to explore my projects, give them a ⭐, or reach out!
 
+---
