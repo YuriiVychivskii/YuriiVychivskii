@@ -16,11 +16,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiVychivskii&layout=compact&theme=dracula&hide_border=true&border_radius=10" alt="Top Languages" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com?user=YuriiVychivskii&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak" />
-      </td>
-    </tr>
   </table>
 </div>
 
