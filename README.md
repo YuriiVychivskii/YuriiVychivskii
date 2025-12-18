@@ -1,4 +1,6 @@
+<div align="center">
 ![ABOUT ME](https://img.shields.io/badge/ABOUT%20ME-B91C1C?style=for-the-badge)
+</div>
 
 ```ts
 const Yurii = {
