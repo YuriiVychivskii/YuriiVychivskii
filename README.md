@@ -1,10 +1,13 @@
 <h1 align="center">Hey there, I'm Yurii 👋</h1>
 
-<p align="center">
-  I'm a 19-year-old developer passionate about modern web technologies, clean code, and beautiful, glowing interfaces.
-  <br />
-  Welcome to my futuristic, neon-themed GitHub space ⚡
-</p>
+```ts
+const Yurii = {
+  title: "Frontend Developer",
+  code: ["JavaScript", "TypeScript", "HTML/CSS"],
+  tools: ["React", "Redux", "Tailwind", "Next.js"],
+  funFact: "Dark mode enthusiast — even my README uses it 🌙",
+};
+```
 
 <div align="center">
   <table>
