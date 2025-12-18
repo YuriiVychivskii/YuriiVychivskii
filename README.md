@@ -1,4 +1,4 @@
-![ABOUT ME](https://img.shields.io/badge/ABOUT%ME-B91C1C?style=for-the-badge)
+![ABOUT ME](https://img.shields.io/badge/ABOUT%20ME-B91C1C?style=for-the-badge)
 
 ```ts
 const Yurii = {
@@ -21,12 +21,14 @@ const Yurii = {
 ![CSS3](https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-121212?style=for-the-badge&logo=next.js)
+
 ![Redux](https://img.shields.io/badge/Redux-121212?style=for-the-badge&logo=redux)
 ![React Query](https://img.shields.io/badge/React%20Query-121212?style=for-the-badge&logo=react-query)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-121212?style=for-the-badge&logo=tailwindcss)
 ![Git](https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github)
 ![Vite](https://img.shields.io/badge/Vite-121212?style=for-the-badge&logo=vite)
+
 ![Docker](https://img.shields.io/badge/Docker-B91C1C?style=for-the-badge&logo=docker)
 ![Figma](https://img.shields.io/badge/Figma-B91C1C?style=for-the-badge&logo=figma)
 ![VS Code](https://img.shields.io/badge/VS%20Code-B91C1C?style=for-the-badge&logo=visualstudiocode)
