@@ -1,8 +1,6 @@
 
 <div align="center">
-
-![ABOUT ME](https://img.shields.io/badge/ABOUT%20ME-B91C1C?style=for-the-badge&logoColor=white)
-
+  <img src="./about-me.svg" />
 </div>
 
 ```ts
