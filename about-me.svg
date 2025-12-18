@@ -1,0 +1,20 @@
+<svg width="420" height="90" viewBox="0 0 420 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-about" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#121212"/>
+      <stop offset="100%" stop-color="#B91C1C"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="420" height="90" rx="18" fill="url(#grad-about)" />
+  <text
+    x="210"
+    y="58"
+    text-anchor="middle"
+    font-size="34"
+    font-weight="700"
+    fill="white"
+    font-family="Segoe UI, Inter, Arial, sans-serif">
+    ABOUT ME
+  </text>
+</svg>
