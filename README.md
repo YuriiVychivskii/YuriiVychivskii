@@ -15,8 +15,10 @@ const Yurii = {
 </br>
 
 <div align="center">
+  <img src="./toolchain.svg" />
+</div>
 
-![MY STACK](https://img.shields.io/badge/MY%20STACK-B91C1C?style=for-the-badge&logoColor=white)
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=white)
@@ -41,9 +43,7 @@ const Yurii = {
 </br>
 
 <div align="center">
-
-![MY STATS](https://img.shields.io/badge/MY%20STATS-B91C1C?style=for-the-badge)
-
+  <img src="./metrics.svg" />
 </div>
 
 <div align="center">
